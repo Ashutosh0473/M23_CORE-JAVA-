@@ -1,4 +1,4 @@
-package AssignmentQuestion;
+package com.tns.looping;
 
 
 public class Dowhile {
